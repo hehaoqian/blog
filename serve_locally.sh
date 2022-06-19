@@ -3,7 +3,7 @@
 # Run Jekyll locally
 # See https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 
-ip_address=$(hostname -I)
+ip_address=$(hostname -I | tr -d '\n' | tr -d ' ')
 port=4000
 
 echo "### IP Address is ${ip_address}"
