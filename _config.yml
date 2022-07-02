@@ -67,31 +67,31 @@ email:
 navs:
   -
     href: /
-    label: 首页
+    label: Front Page
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
 #   -
 #     href: /archives/
-#     label: 归档
+#     label: Archives
 
 #   -
 #     href: /open-source/
-#     label: 开源
+#     label: Open Source
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
